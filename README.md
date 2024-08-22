@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Owooje</h1>
 <h3 align="center">An aspiring frontend developer from Maryland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowooje&label=Profile%20views&color=0e75b6&style=flat" alt="mowooje" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mowooje" alt="mowooje" /></a> </p>
-
 - 🔭 I’m currently working on **Sprint 9 of TripleTen Bootcamp**
 
 - 🌱 I’m currently learning **JavaScript, APIs and React**
