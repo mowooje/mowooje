@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael Owooje</h1>
 <h3 align="center">An aspiring frontend developer from Maryland</h3>
 
-- 🔭 I’m currently working on **Sprint 9 of TripleTen Bootcamp**
+- 🔭 I’m currently working on **Final Sprint of TripleTen Bootcamp**
 
-- 🌱 I’m currently learning **JavaScript, APIs and React**
+- 🌱 Learning more about **JavaScript, APIs and React**
 
 - 📫 How to reach me **michaelowooje@gmail.com**
 
-- 📄 Know about my experiences [Photographer turned frontend developer](Photographer turned frontend developer)
+- 📄 Know about my experiences [Photographer turned frontend developer]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
